@@ -1,0 +1,8 @@
+Users
+
+1. username: super_admin         password: admin123
+2. username: campus_admin1		password: admin123
+3. username: campus_admin2		password: admin123
+4. username: campus_admin3		password: admin123
+5. uesrname: lecturer1			password: lect123
+6. username: lecturer1			password: lect123
